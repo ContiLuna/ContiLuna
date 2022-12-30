@@ -1,6 +1,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> Hey , I'm Conti 
 
-<a target="_blank" href="https://www.linkedin.com/in/mehdimabrouki/">
+<a target="_blank" href="https://www.linkedin.com/in/florencia-constanza-luna-5a4257260/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://www.kaggle.com/mehdimabrouki">
