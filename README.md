@@ -1,6 +1,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> Hey , I'm Conti 
 
-<a target="_blank" href="https://www.linkedin.com/in/florencia-constanza-luna-5a4257260/">
+<!--<a target="_blank" href="https://www.linkedin.com/in/florencia-constanza-luna-5a4257260/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://www.kaggle.com/mehdimabrouki">
@@ -30,6 +30,7 @@ Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 
 - 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
 
+-->
 
 **Languages and Tools:**  
 
