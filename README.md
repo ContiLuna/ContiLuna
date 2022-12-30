@@ -6,7 +6,7 @@
 <a target="_blank" href="https://www.kaggle.com/mehdimabrouki">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/mabroukimehdi/">
+<a target="_blank" href="https://www.instagram.com/florencia.constanza.luna/">
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a target="_blank" href="https://www.facebook.com/mehdi.mabrouki1">
